@@ -1,0 +1,384 @@
+src/lifeGame/Cell.java:1:	Package name contains upper case characters
+src/lifeGame/Cell.java:1:	Package name contains upper case characters
+src/lifeGame/Cell.java:3:	Avoid short class names like Cell
+src/lifeGame/Cell.java:3:	Avoid short class names like Cell
+src/lifeGame/Cell.java:3:	Header comments are required
+src/lifeGame/Cell.java:3:	Header comments are required
+src/lifeGame/Cell.java:3:	The class 'Cell' is suspected to be a Data Class (WOC=20.000%, NOPA=0, NOAM=4, WMC=10)
+src/lifeGame/Cell.java:3:	The class 'Cell' is suspected to be a Data Class (WOC=20.000%, NOPA=0, NOAM=4, WMC=10)
+src/lifeGame/Cell.java:4:	Field comments are required
+src/lifeGame/Cell.java:4:	Field comments are required
+src/lifeGame/Cell.java:4:	The field name 'Status' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifeGame/Cell.java:4:	The field name 'Status' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifeGame/Cell.java:4:	Variables should start with a lowercase character, 'Status' starts with uppercase character.
+src/lifeGame/Cell.java:4:	Variables should start with a lowercase character, 'Status' starts with uppercase character.
+src/lifeGame/Cell.java:5:	Field comments are required
+src/lifeGame/Cell.java:5:	Field comments are required
+src/lifeGame/Cell.java:5:	The field name 'Living' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifeGame/Cell.java:5:	The field name 'Living' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifeGame/Cell.java:5:	Variables should start with a lowercase character, 'Living' starts with uppercase character.
+src/lifeGame/Cell.java:5:	Variables should start with a lowercase character, 'Living' starts with uppercase character.
+src/lifeGame/Cell.java:8:	To avoid mistakes add a comment at the beginning of the Cell constructor if you want a default access modifier
+src/lifeGame/Cell.java:8:	To avoid mistakes add a comment at the beginning of the Cell constructor if you want a default access modifier
+src/lifeGame/Cell.java:12:	Avoid naming non-fields with the prefix m_
+src/lifeGame/Cell.java:12:	Avoid naming non-fields with the prefix m_
+src/lifeGame/Cell.java:12:	Avoid naming non-fields with the prefix m_
+src/lifeGame/Cell.java:12:	Avoid naming non-fields with the prefix m_
+src/lifeGame/Cell.java:12:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Living' is not final.
+src/lifeGame/Cell.java:12:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Living' is not final.
+src/lifeGame/Cell.java:12:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Status' is not final.
+src/lifeGame/Cell.java:12:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Status' is not final.
+src/lifeGame/Cell.java:12:	Parameter 'm_Living' is not assigned and could be declared final
+src/lifeGame/Cell.java:12:	Parameter 'm_Living' is not assigned and could be declared final
+src/lifeGame/Cell.java:12:	Parameter 'm_Status' is not assigned and could be declared final
+src/lifeGame/Cell.java:12:	Parameter 'm_Status' is not assigned and could be declared final
+src/lifeGame/Cell.java:12:	The method parameter name 'm_Living' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifeGame/Cell.java:12:	The method parameter name 'm_Living' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifeGame/Cell.java:12:	The method parameter name 'm_Status' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifeGame/Cell.java:12:	The method parameter name 'm_Status' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifeGame/Cell.java:12:	To avoid mistakes add a comment at the beginning of the Cell constructor if you want a default access modifier
+src/lifeGame/Cell.java:12:	To avoid mistakes add a comment at the beginning of the Cell constructor if you want a default access modifier
+src/lifeGame/Cell.java:19:	Avoid naming non-fields with the prefix m_
+src/lifeGame/Cell.java:19:	Avoid naming non-fields with the prefix m_
+src/lifeGame/Cell.java:19:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Status' is not final.
+src/lifeGame/Cell.java:19:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Status' is not final.
+src/lifeGame/Cell.java:19:	Parameter 'm_Status' is not assigned and could be declared final
+src/lifeGame/Cell.java:19:	Parameter 'm_Status' is not assigned and could be declared final
+src/lifeGame/Cell.java:19:	The method parameter name 'm_Status' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifeGame/Cell.java:19:	The method parameter name 'm_Status' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifeGame/Cell.java:25:	Avoid naming non-fields with the prefix m_
+src/lifeGame/Cell.java:25:	Avoid naming non-fields with the prefix m_
+src/lifeGame/Cell.java:25:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Living' is not final.
+src/lifeGame/Cell.java:25:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Living' is not final.
+src/lifeGame/Cell.java:25:	Parameter 'm_Living' is not assigned and could be declared final
+src/lifeGame/Cell.java:25:	Parameter 'm_Living' is not assigned and could be declared final
+src/lifeGame/Cell.java:25:	The method parameter name 'm_Living' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifeGame/Cell.java:25:	The method parameter name 'm_Living' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifeGame/Cell.java:28:	Public method and constructor comments are required
+src/lifeGame/Cell.java:28:	Public method and constructor comments are required
+src/lifeGame/Cell.java:28:	The instance method name 'UpdateStatus' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifeGame/Cell.java:28:	The instance method name 'UpdateStatus' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifeGame/Cell.java:29:	Avoid using if...else statements without curly braces
+src/lifeGame/Cell.java:29:	Avoid using if...else statements without curly braces
+src/lifeGame/Cell.java:29:	This statement should have braces
+src/lifeGame/Cell.java:29:	This statement should have braces
+src/lifeGame/Cell.java:30:	Avoid using Literals in Conditional Statements
+src/lifeGame/Cell.java:30:	Avoid using Literals in Conditional Statements
+src/lifeGame/Cell.java:30:	Avoid using if...else statements without curly braces
+src/lifeGame/Cell.java:30:	Avoid using if...else statements without curly braces
+src/lifeGame/Cell.java:30:	This statement should have braces
+src/lifeGame/Cell.java:30:	This statement should have braces
+src/lifeGame/Cell.java:31:	Avoid using if...else statements without curly braces
+src/lifeGame/Cell.java:31:	Avoid using if...else statements without curly braces
+src/lifeGame/Cell.java:31:	This statement should have braces
+src/lifeGame/Cell.java:31:	This statement should have braces
+src/lifeGame/CellTest.java:1:	Package name contains upper case characters
+src/lifeGame/CellTest.java:1:	Package name contains upper case characters
+src/lifeGame/CellTest.java:9:	Each class should declare at least one constructor
+src/lifeGame/CellTest.java:9:	Each class should declare at least one constructor
+src/lifeGame/CellTest.java:9:	Header comments are required
+src/lifeGame/CellTest.java:9:	Header comments are required
+src/lifeGame/CellTest.java:10:	Field comments are required
+src/lifeGame/CellTest.java:10:	Field comments are required
+src/lifeGame/CellTest.java:12:	A method/constructor should not explicitly throw java.lang.Exception
+src/lifeGame/CellTest.java:12:	A method/constructor should not explicitly throw java.lang.Exception
+src/lifeGame/CellTest.java:12:	Public method and constructor comments are required
+src/lifeGame/CellTest.java:12:	Public method and constructor comments are required
+src/lifeGame/CellTest.java:17:	A method/constructor should not explicitly throw java.lang.Exception
+src/lifeGame/CellTest.java:17:	A method/constructor should not explicitly throw java.lang.Exception
+src/lifeGame/CellTest.java:17:	Document empty method body
+src/lifeGame/CellTest.java:17:	Document empty method body
+src/lifeGame/CellTest.java:17:	Public method and constructor comments are required
+src/lifeGame/CellTest.java:17:	Public method and constructor comments are required
+src/lifeGame/CellTest.java:21:	Public method and constructor comments are required
+src/lifeGame/CellTest.java:21:	Public method and constructor comments are required
+src/lifeGame/CellTest.java:21:	Unit tests should not contain more than 1 assert(s).
+src/lifeGame/CellTest.java:21:	Unit tests should not contain more than 1 assert(s).
+src/lifeGame/CellTest.java:24:	JUnit assertions should include a message
+src/lifeGame/CellTest.java:24:	JUnit assertions should include a message
+src/lifeGame/CellTest.java:28:	JUnit assertions should include a message
+src/lifeGame/CellTest.java:28:	JUnit assertions should include a message
+src/lifeGame/CellTest.java:32:	JUnit assertions should include a message
+src/lifeGame/CellTest.java:32:	JUnit assertions should include a message
+src/lifeGame/CellTest.java:35:	JUnit assertions should include a message
+src/lifeGame/CellTest.java:35:	JUnit assertions should include a message
+src/lifeGame/Controll.java:1:	Package name contains upper case characters
+src/lifeGame/Controll.java:1:	Package name contains upper case characters
+src/lifeGame/Controll.java:3:	Avoid unused imports such as 'java.awt.Component'
+src/lifeGame/Controll.java:3:	Avoid unused imports such as 'java.awt.Component'
+src/lifeGame/Controll.java:5:	Avoid unused imports such as 'java.awt.event.MouseAdapter'
+src/lifeGame/Controll.java:5:	Avoid unused imports such as 'java.awt.event.MouseAdapter'
+src/lifeGame/Controll.java:6:	Avoid unused imports such as 'java.awt.event.MouseEvent'
+src/lifeGame/Controll.java:6:	Avoid unused imports such as 'java.awt.event.MouseEvent'
+src/lifeGame/Controll.java:7:	Avoid unused imports such as 'java.awt.event.MouseListener'
+src/lifeGame/Controll.java:7:	Avoid unused imports such as 'java.awt.event.MouseListener'
+src/lifeGame/Controll.java:8:	Avoid unused imports such as 'java.text.SimpleDateFormat'
+src/lifeGame/Controll.java:8:	Avoid unused imports such as 'java.text.SimpleDateFormat'
+src/lifeGame/Controll.java:9:	Avoid unused imports such as 'java.util.Date'
+src/lifeGame/Controll.java:9:	Avoid unused imports such as 'java.util.Date'
+src/lifeGame/Controll.java:10:	Avoid unused imports such as 'java.util.Scanner'
+src/lifeGame/Controll.java:10:	Avoid unused imports such as 'java.util.Scanner'
+src/lifeGame/Controll.java:15:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/lifeGame/Controll.java:15:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/lifeGame/Controll.java:15:	Header comments are required
+src/lifeGame/Controll.java:15:	Header comments are required
+src/lifeGame/Controll.java:15:	The class 'Controll' has a Modified Cyclomatic Complexity of 14 (Highest = 13).
+src/lifeGame/Controll.java:15:	The class 'Controll' has a Modified Cyclomatic Complexity of 14 (Highest = 13).
+src/lifeGame/Controll.java:15:	The class 'Controll' has a Standard Cyclomatic Complexity of 14 (Highest = 13).
+src/lifeGame/Controll.java:15:	The class 'Controll' has a Standard Cyclomatic Complexity of 14 (Highest = 13).
+src/lifeGame/Controll.java:16:	Parameter 'args' is not assigned and could be declared final
+src/lifeGame/Controll.java:16:	Parameter 'args' is not assigned and could be declared final
+src/lifeGame/Controll.java:16:	Public method and constructor comments are required
+src/lifeGame/Controll.java:16:	Public method and constructor comments are required
+src/lifeGame/Controll.java:16:	The method 'main' has a Modified Cyclomatic Complexity of 13.
+src/lifeGame/Controll.java:16:	The method 'main' has a Modified Cyclomatic Complexity of 13.
+src/lifeGame/Controll.java:16:	The method 'main' has a Standard Cyclomatic Complexity of 13.
+src/lifeGame/Controll.java:16:	The method 'main' has a Standard Cyclomatic Complexity of 13.
+src/lifeGame/Controll.java:16:	The method 'main(String)' has a cyclomatic complexity of 13.
+src/lifeGame/Controll.java:16:	The method 'main(String)' has a cyclomatic complexity of 13.
+src/lifeGame/Controll.java:17:	Local variable 'jframe' could be declared final
+src/lifeGame/Controll.java:17:	Local variable 'jframe' could be declared final
+src/lifeGame/Controll.java:19:	Local variable 'jpanel' could be declared final
+src/lifeGame/Controll.java:19:	Local variable 'jpanel' could be declared final
+src/lifeGame/Controll.java:22:	Found 'DD'-anomaly for variable 'cell' (lines '22'-'23').
+src/lifeGame/Controll.java:22:	Found 'DD'-anomaly for variable 'cell' (lines '22'-'23').
+src/lifeGame/Controll.java:23:	Found 'DD'-anomaly for variable 'cell' (lines '23'-'24').
+src/lifeGame/Controll.java:23:	Found 'DD'-anomaly for variable 'cell' (lines '23'-'24').
+src/lifeGame/Controll.java:30:	Avoid variables with short names like g
+src/lifeGame/Controll.java:30:	Avoid variables with short names like g
+src/lifeGame/Controll.java:30:	Local variable 'g' could be declared final
+src/lifeGame/Controll.java:30:	Local variable 'g' could be declared final
+src/lifeGame/Controll.java:38:	Avoid using Literals in Conditional Statements
+src/lifeGame/Controll.java:38:	Avoid using Literals in Conditional Statements
+src/lifeGame/Controll.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Controll.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Controll.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Controll.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Controll.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Controll.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Controll.java:46:	Avoid variables with short names like d1
+src/lifeGame/Controll.java:46:	Avoid variables with short names like d1
+src/lifeGame/Controll.java:48:	Avoid variables with short names like d2
+src/lifeGame/Controll.java:48:	Avoid variables with short names like d2
+src/lifeGame/Controll.java:48:	Local variable 'd2' could be declared final
+src/lifeGame/Controll.java:48:	Local variable 'd2' could be declared final
+src/lifeGame/Controll.java:49:	Avoid using Literals in Conditional Statements
+src/lifeGame/Controll.java:49:	Avoid using Literals in Conditional Statements
+src/lifeGame/Controll.java:50:	Found 'DU'-anomaly for variable 'd1' (lines '50'-'75').
+src/lifeGame/Controll.java:50:	Found 'DU'-anomaly for variable 'd1' (lines '50'-'75').
+src/lifeGame/Controll.java:61:	Avoid using Literals in Conditional Statements
+src/lifeGame/Controll.java:61:	Avoid using Literals in Conditional Statements
+src/lifeGame/Controll.java:61:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Controll.java:61:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Controll.java:61:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Controll.java:61:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Controll.java:61:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Controll.java:61:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:1:	Package name contains upper case characters
+src/lifeGame/Map.java:1:	Package name contains upper case characters
+src/lifeGame/Map.java:5:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/lifeGame/Map.java:5:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/lifeGame/Map.java:5:	Avoid short class names like Map
+src/lifeGame/Map.java:5:	Avoid short class names like Map
+src/lifeGame/Map.java:5:	Header comments are required
+src/lifeGame/Map.java:5:	Header comments are required
+src/lifeGame/Map.java:5:	The class 'Map' has a Modified Cyclomatic Complexity of 5 (Highest = 11).
+src/lifeGame/Map.java:5:	The class 'Map' has a Modified Cyclomatic Complexity of 5 (Highest = 11).
+src/lifeGame/Map.java:5:	The class 'Map' has a Standard Cyclomatic Complexity of 5 (Highest = 11).
+src/lifeGame/Map.java:5:	The class 'Map' has a Standard Cyclomatic Complexity of 5 (Highest = 11).
+src/lifeGame/Map.java:5:	The utility class name 'Map' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+src/lifeGame/Map.java:5:	The utility class name 'Map' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+src/lifeGame/Map.java:6:	Avoid variables with short names like x
+src/lifeGame/Map.java:6:	Avoid variables with short names like x
+src/lifeGame/Map.java:6:	Field comments are required
+src/lifeGame/Map.java:6:	Field comments are required
+src/lifeGame/Map.java:6:	The public constant name 'x' doesn't match '[A-Z][A-Z_0-9]*'
+src/lifeGame/Map.java:6:	The public constant name 'x' doesn't match '[A-Z][A-Z_0-9]*'
+src/lifeGame/Map.java:6:	Variables that are final and static should be all capitals, 'x' is not all capitals.
+src/lifeGame/Map.java:6:	Variables that are final and static should be all capitals, 'x' is not all capitals.
+src/lifeGame/Map.java:7:	Avoid variables with short names like y
+src/lifeGame/Map.java:7:	Avoid variables with short names like y
+src/lifeGame/Map.java:7:	Field comments are required
+src/lifeGame/Map.java:7:	Field comments are required
+src/lifeGame/Map.java:7:	The public constant name 'y' doesn't match '[A-Z][A-Z_0-9]*'
+src/lifeGame/Map.java:7:	The public constant name 'y' doesn't match '[A-Z][A-Z_0-9]*'
+src/lifeGame/Map.java:7:	Variables that are final and static should be all capitals, 'y' is not all capitals.
+src/lifeGame/Map.java:7:	Variables that are final and static should be all capitals, 'y' is not all capitals.
+src/lifeGame/Map.java:8:	Public method and constructor comments are required
+src/lifeGame/Map.java:8:	Public method and constructor comments are required
+src/lifeGame/Map.java:9:	Found 'DD'-anomaly for variable 'cell' (lines '9'-'12').
+src/lifeGame/Map.java:9:	Found 'DD'-anomaly for variable 'cell' (lines '9'-'12').
+src/lifeGame/Map.java:12:	Avoid instantiating new objects inside loops
+src/lifeGame/Map.java:12:	Avoid instantiating new objects inside loops
+src/lifeGame/Map.java:13:	Avoid instantiating new objects inside loops
+src/lifeGame/Map.java:13:	Avoid instantiating new objects inside loops
+src/lifeGame/Map.java:13:	Local variable 'random' could be declared final
+src/lifeGame/Map.java:13:	Local variable 'random' could be declared final
+src/lifeGame/Map.java:14:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:14:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:14:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:14:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:14:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:14:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:19:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifeGame/Map.java:19:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifeGame/Map.java:19:	Parameter 'cell' is not assigned and could be declared final
+src/lifeGame/Map.java:19:	Parameter 'cell' is not assigned and could be declared final
+src/lifeGame/Map.java:19:	Public method and constructor comments are required
+src/lifeGame/Map.java:19:	Public method and constructor comments are required
+src/lifeGame/Map.java:19:	The method 'getLiving' has a Modified Cyclomatic Complexity of 11.
+src/lifeGame/Map.java:19:	The method 'getLiving' has a Modified Cyclomatic Complexity of 11.
+src/lifeGame/Map.java:19:	The method 'getLiving' has a Standard Cyclomatic Complexity of 11.
+src/lifeGame/Map.java:19:	The method 'getLiving' has a Standard Cyclomatic Complexity of 11.
+src/lifeGame/Map.java:19:	The method 'getLiving(Cell)' has a cyclomatic complexity of 15.
+src/lifeGame/Map.java:19:	The method 'getLiving(Cell)' has a cyclomatic complexity of 15.
+src/lifeGame/Map.java:19:	The method 'getLiving(Cell)' has an NPath complexity of 1298
+src/lifeGame/Map.java:19:	The method 'getLiving(Cell)' has an NPath complexity of 1298
+src/lifeGame/Map.java:23:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:23:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:23:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:23:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:23:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:23:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:23:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:23:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:23:	This statement should have braces
+src/lifeGame/Map.java:23:	This statement should have braces
+src/lifeGame/Map.java:24:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:24:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:24:	This statement should have braces
+src/lifeGame/Map.java:24:	This statement should have braces
+src/lifeGame/Map.java:25:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:25:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:25:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:25:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:25:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:25:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:25:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:25:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:25:	This statement should have braces
+src/lifeGame/Map.java:25:	This statement should have braces
+src/lifeGame/Map.java:26:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:26:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:26:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:26:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:26:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:26:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:26:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:26:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:26:	This statement should have braces
+src/lifeGame/Map.java:26:	This statement should have braces
+src/lifeGame/Map.java:27:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:27:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:27:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:27:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:27:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:27:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:27:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:27:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:27:	This statement should have braces
+src/lifeGame/Map.java:27:	This statement should have braces
+src/lifeGame/Map.java:28:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:28:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:28:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:28:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:28:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:28:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:28:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:28:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:28:	This statement should have braces
+src/lifeGame/Map.java:28:	This statement should have braces
+src/lifeGame/Map.java:29:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:29:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:29:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:29:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:29:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:29:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:29:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:29:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:29:	This statement should have braces
+src/lifeGame/Map.java:29:	This statement should have braces
+src/lifeGame/Map.java:30:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:30:	Avoid using if statements without curly braces
+src/lifeGame/Map.java:30:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:30:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:30:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:30:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:30:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:30:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:30:	This statement should have braces
+src/lifeGame/Map.java:30:	This statement should have braces
+src/lifeGame/Map.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:36:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifeGame/Map.java:36:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifeGame/Map.java:36:	Parameter 'cell' is not assigned and could be declared final
+src/lifeGame/Map.java:36:	Parameter 'cell' is not assigned and could be declared final
+src/lifeGame/Map.java:36:	Public method and constructor comments are required
+src/lifeGame/Map.java:36:	Public method and constructor comments are required
+src/lifeGame/Map.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:44:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifeGame/Map.java:44:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifeGame/Map.java:44:	Parameter 'cell' is not assigned and could be declared final
+src/lifeGame/Map.java:44:	Parameter 'cell' is not assigned and could be declared final
+src/lifeGame/Map.java:44:	Public method and constructor comments are required
+src/lifeGame/Map.java:44:	Public method and constructor comments are required
+src/lifeGame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifeGame/Map.java:47:	System.out.print is used
+src/lifeGame/Map.java:47:	System.out.print is used
+src/lifeGame/Map.java:49:	System.out.println is used
+src/lifeGame/Map.java:49:	System.out.println is used
+src/lifeGame/MapTest.java:1:	Package name contains upper case characters
+src/lifeGame/MapTest.java:1:	Package name contains upper case characters
+src/lifeGame/MapTest.java:9:	Each class should declare at least one constructor
+src/lifeGame/MapTest.java:9:	Each class should declare at least one constructor
+src/lifeGame/MapTest.java:9:	Header comments are required
+src/lifeGame/MapTest.java:9:	Header comments are required
+src/lifeGame/MapTest.java:12:	A method/constructor should not explicitly throw java.lang.Exception
+src/lifeGame/MapTest.java:12:	A method/constructor should not explicitly throw java.lang.Exception
+src/lifeGame/MapTest.java:12:	Document empty method body
+src/lifeGame/MapTest.java:12:	Document empty method body
+src/lifeGame/MapTest.java:12:	Public method and constructor comments are required
+src/lifeGame/MapTest.java:12:	Public method and constructor comments are required
+src/lifeGame/MapTest.java:16:	A method/constructor should not explicitly throw java.lang.Exception
+src/lifeGame/MapTest.java:16:	A method/constructor should not explicitly throw java.lang.Exception
+src/lifeGame/MapTest.java:16:	Document empty method body
+src/lifeGame/MapTest.java:16:	Document empty method body
+src/lifeGame/MapTest.java:16:	Public method and constructor comments are required
+src/lifeGame/MapTest.java:16:	Public method and constructor comments are required
+src/lifeGame/MapTest.java:20:	Public method and constructor comments are required
+src/lifeGame/MapTest.java:20:	Public method and constructor comments are required
+src/lifeGame/MapTest.java:21:	The String literal "Not yet implemented" appears 4 times in this file; the first occurrence is on line 21
+src/lifeGame/MapTest.java:21:	The String literal "Not yet implemented" appears 4 times in this file; the first occurrence is on line 21
+src/lifeGame/MapTest.java:25:	Public method and constructor comments are required
+src/lifeGame/MapTest.java:25:	Public method and constructor comments are required
+src/lifeGame/MapTest.java:30:	Public method and constructor comments are required
+src/lifeGame/MapTest.java:30:	Public method and constructor comments are required
+src/lifeGame/MapTest.java:35:	Public method and constructor comments are required
+src/lifeGame/MapTest.java:35:	Public method and constructor comments are required
